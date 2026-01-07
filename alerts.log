@@ -1,0 +1,94 @@
+INFO:root:[2025-04-11 00:15:29] CREATED | CREATED \u2192 C:\Users\DELL\Documents\test-watch\New Text Document.txt
+INFO:root:[2025-04-11 00:15:29] INTEGRITY_FAIL | File updated: C:\Users\DELL\Documents\test-watch
+INFO:root:[2025-04-11 00:15:32] RENAMED_FROM | RENAMED_FROM \u2192 C:\Users\DELL\Documents\test-watch\New Text Document.txt
+INFO:root:[2025-04-11 00:15:32] RENAMED_TO | RENAMED_TO \u2192 C:\Users\DELL\Documents\test-watch\nthg.txt
+INFO:root:[2025-04-11 00:15:32] INTEGRITY_FAIL | File updated: C:\Users\DELL\Documents\test-watch
+INFO:root:[2025-04-11 00:15:48] DELETED | DELETED \u2192 C:\Users\DELL\Documents\test-watch\nthg.txt
+INFO:root:[2025-04-11 00:15:48] INTEGRITY_FAIL | File updated: C:\Users\DELL\Documents\test-watch
+[2025-04-11 00:34:14] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\file-monitor\utils
+[2025-04-11 00:38:48] DELETED: DELETED → C:\Users\DELL\Documents\test-watch\test.file
+[2025-04-11 00:40:31] CREATED: CREATED → C:\Users\DELL\Documents\test-watch\New folder
+[2025-04-11 00:40:34] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch
+[2025-04-11 00:40:37] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\file-monitor\alerts.log
+[2025-04-11 00:40:40] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\file-monitor\alerts.log
+[2025-04-11 00:40:42] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\file-monitor\alerts.log
+[2025-04-11 00:40:45] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\file-monitor\alerts.log
+[2025-04-15 01:09:00] DELETED: DELETED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-15 01:09:05] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 09:37:44] CREATED: CREATED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 09:37:44] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 09:37:56] RENAMED_FROM: RENAMED_FROM → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 09:37:56] RENAMED_TO: RENAMED_TO → C:\Users\DELL\Documents\test-watch\shruthi (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 09:37:56] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:00:14] CREATED: CREATED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:00:14] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:00:27] RENAMED_FROM: RENAMED_FROM → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:00:27] RENAMED_TO: RENAMED_TO → C:\Users\DELL\Documents\test-watch\123 (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:00:27] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:30:24] DELETED: DELETED → C:\Users\DELL\Documents\test-watch\shruthi (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:30:35] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:33:09] DELETED: DELETED → C:\Users\DELL\Documents\test-watch\123 (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:33:35] INTEGRITY_FAIL: File updated: C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:43:19] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized CREATED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 10:43:43] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 11:31:31] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized DELETED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 11:31:49] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 11:35:48] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized DELETED → C:\Users\DELL\Documents\test-watch\abc (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 11:36:06] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 11:36:31] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized DELETED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 11:36:43] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:10' returned non-zero exit status 5.)
+[2025-04-21 11:41:11] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized CREATED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:43:21] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized DELETED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:43:33] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:44:09] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized CREATED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:44:21] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:48:16] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized DELETED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:49:42] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized CREATED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:49:53] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:58:53] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized DELETED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:59:02] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:59:05] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\file-monitor\watcher\windows_watcher.py (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:59:09] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\file-monitor\watcher\windows_watcher.py (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 11:59:17] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\file-monitor\watcher\windows_watcher.py (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 12:00:07] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized CREATED → C:\Users\DELL\Documents\test-watch\New folder (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 12:00:12] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\test-watch (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 12:00:47] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized UPDATED → C:\Users\DELL\Documents\file-monitor\watcher\windows_watcher.py (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-21 20:03:12] UNAUTHORIZED_ACCESS: ⚠️ Unauthorized CREATED → C:\Users\DELL\Documents\file-monitor (2).zip (by Error retrieving user: Command 'wevtutil qe Security /q:"*[System[Provider[@Name='Microsoft-Windows-Security-Auditing']]]" /f:text /c:20' returned non-zero exit status 5.)
+[2025-04-24 11:31:00] CREATED: /Users/mounikanagapuri/Desktop/test/darshini was created.
+[2025-04-24 11:31:00] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:31:00] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini was modified.
+[2025-04-24 11:31:00] CREATED: /Users/mounikanagapuri/Desktop/test/darshini/mounika.txt was created.
+[2025-04-24 11:31:00] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini was modified.
+[2025-04-24 11:31:00] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/mounika.txt was modified.
+[2025-04-24 11:31:01] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/mounika.txt was modified.
+[2025-04-24 11:31:01] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/mounika.txt was modified.
+[2025-04-24 11:31:03] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini was modified.
+[2025-04-24 11:31:03] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:31:06] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/mounika.txt was modified.
+[2025-04-24 11:31:06] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini was modified.
+[2025-04-24 11:31:06] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:31:12] CREATED: /Users/mounikanagapuri/Desktop/test/darshini/helo.txt was created.
+[2025-04-24 11:31:12] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini was modified.
+[2025-04-24 11:31:12] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/helo.txt was modified.
+[2025-04-24 11:31:13] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/helo.txt was modified.
+[2025-04-24 11:31:13] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/helo.txt was modified.
+[2025-04-24 11:31:16] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini was modified.
+[2025-04-24 11:31:16] MODIFIED: /Users/mounikanagapuri/Desktop/test/darshini/helo.txt was modified.
+[2025-04-24 11:31:16] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:31:38] MODIFIED: /Users/mounikanagapuri/Desktop/test/.DS_Store was modified.
+[2025-04-24 11:31:38] DELETED: /Users/mounikanagapuri/Desktop/test/darshini was deleted.
+[2025-04-24 11:31:42] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:31:42] DELETED: /Users/mounikanagapuri/Desktop/test/lkh;fdsa was deleted.
+[2025-04-24 11:31:46] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:31:46] DELETED: /Users/mounikanagapuri/Desktop/test/test-1 was deleted.
+[2025-04-24 11:31:51] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:31:51] MODIFIED: /Users/mounikanagapuri/Desktop/test/.DS_Store was modified.
+[2025-04-24 11:32:51] CREATED: /Users/mounikanagapuri/Desktop/test/untitled folder was created.
+[2025-04-24 11:32:51] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:32:54] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:32:54] MODIFIED: /Users/mounikanagapuri/Desktop/test/untitled folder was modified.
+[2025-04-24 11:32:54] MODIFIED: /Users/mounikanagapuri/Desktop/test was modified.
+[2025-04-24 11:32:56] MODIFIED: /Users/mounikanagapuri/Desktop/test/dharshini was modified.
+[2025-04-24 11:37:23] MODIFIED: /Users/mounikanagapuri/Desktop/test/.DS_Store was modified.
+[2025-04-24 11:37:28] MODIFIED: /Users/mounikanagapuri/Desktop/test/.DS_Store was modified.
+[2025-04-24 11:41:23] MODIFIED: /Users/mounikanagapuri/Desktop/test/.DS_Store was modified.
